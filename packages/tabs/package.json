@@ -1,5 +1,5 @@
 {
-  "name": "@alexandria/tabs",
+  "name": "@alexandriajs/tabs",
   "version": "1.0.4-alpha.0",
   "description": "An accessible, unstyled <Tabs> component",
   "main": "index.js",
@@ -11,5 +11,5 @@
   },
   "author": "",
   "license": "MIT",
-  "gitHead": "2834a145abb8957c746fffbbe209c9358c2ca61d"
+  "gitHead": "7b8639580f0ebd3c5d94f1a16c29043f7d38ad77"
 }
