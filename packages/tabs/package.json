@@ -1,0 +1,11 @@
+{
+  "name": "@alexandria/tabs",
+  "version": "0.1.0",
+  "description": "An accessible, unstyled <Tabs> component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
