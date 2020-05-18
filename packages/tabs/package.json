@@ -3,9 +3,13 @@
   "version": "1.0.0-alpha.0",
   "description": "An accessible, unstyled <Tabs> component",
   "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "gitHead": "400f0c8a652ad4674231ddc65c7f04b63e606dc7"
 }
